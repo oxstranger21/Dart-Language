@@ -50,5 +50,5 @@ void main() {
 
   print('Map Example');
   Map<String, int> scores = {'Alice': 90, 'Bob': 85, 'Charlie': 92};
-  print(scores); // Output: {Alice: 90, Bob: 85, Charlie  : 92}
+  print(scores); // Output: {Alice: 90, Bob: 85, Charlie  : 92}    
 }
